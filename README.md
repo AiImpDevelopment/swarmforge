@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>4-Faction Galactic Strategy RPG with Genetic Evolution.</strong><br/>
-  80 units. 67,000 planets. 12 heroes. Your productivity powers your empire.
+  80 units + NPC AI. 67,000 planets. 12 heroes. Your productivity powers your empire.
 </p>
 
 <p align="center">
@@ -200,3 +200,32 @@ Karsten Schildgen, Germany
   <strong>Your empire evolves. Literally.</strong><br/>
   <em>Coming to Steam 2026</em>
 </p>
+
+---
+
+## New: NPC AI Engine
+
+SwarmForge now features a full **AI opponent system** with 4 unique faction personalities:
+
+| Faction | Personality | Strategy |
+|---------|------------|----------|
+| **Iron Legion** | Aggressive | Attack when military > 1.5x enemy |
+| **Crystal Hive** | Defensive | Build defenses until overwhelming |
+| **Void Traders** | Economic | Resource dominance, attack only when certain |
+| **Swarm Mind** | Balanced | Adapts dynamically to context |
+
+Each NPC evaluates **threat level**, **economic strength**, and **military power** every tick to make strategic decisions: build, research, attack, defend, expand, or form alliances.
+
+### Difficulty Levels
+- **Easy** — NPC makes suboptimal decisions, slower build times
+- **Normal** — Balanced AI, fair challenge
+- **Hard** — Optimized decision trees, aggressive expansion
+- **Nightmare** — Perfect information, maximum aggression
+
+## Integration with ImpForge
+
+SwarmForge is deeply integrated into the ImpForge AI Workstation:
+- **XP Bridge** — Your coding productivity generates in-game Dark Matter
+- **Skill Trees** — 8 language skill trees unlock in-game bonuses
+- **Achievements** — 100+ cross-platform achievements
+- **Team Leaderboards** — Compete with your development team
