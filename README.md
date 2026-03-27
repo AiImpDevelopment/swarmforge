@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>4-Faction Galactic Strategy RPG with Genetic Evolution.</strong><br/>
-  80 units + NPC AI. 67,000 planets. 12 heroes. Your productivity powers your empire.
+  80 units + NPC AI + XP Bridge. 67,000 planets. 12 heroes. Your productivity powers your empire.
 </p>
 
 <p align="center">
