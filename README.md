@@ -4,10 +4,7 @@
 
 <h1 align="center">SwarmForge: Galactic Swarm Wars</h1>
 
-<p align="center">
-  <strong>4-Faction Galactic Strategy RPG with Genetic Evolution & NPC AI.</strong><br/>
-  Your real-world productivity powers your galactic empire. Zero microtransactions.
-</p>
+<h3 align="center">The strategy RPG where your real-world productivity powers your galactic empire.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/price-EUR%2019.99-ff4444?style=flat-square" alt="Price" />
@@ -15,148 +12,116 @@
   <img src="https://img.shields.io/badge/units-80-3b82f6?style=flat-square" alt="Units" />
   <img src="https://img.shields.io/badge/planets-67,000+-a855f7?style=flat-square" alt="Planets" />
   <img src="https://img.shields.io/badge/heroes-12-22c55e?style=flat-square" alt="Heroes" />
-  <img src="https://img.shields.io/badge/NPC_AI-4_Personalities-ff6600?style=flat-square" alt="NPC AI" />
   <img src="https://img.shields.io/badge/microtransactions-ZERO-22c55e?style=flat-square" alt="No MTX" />
-  <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-888?style=flat-square" alt="Platform" />
 </p>
 
 ---
 
-## About
+## What if your work made you stronger?
 
-SwarmForge is a **full-featured galactic strategy RPG** integrated into the ImpForge AI Workstation. Real productivity generates in-game resources — your code commits, documents, and completed tasks fuel your empire.
+Every line of code you write. Every document you finish. Every task you complete. Every bug you fix. In SwarmForge, **your real productivity generates real power.**
 
-**OGame meets genetic algorithms.** Build colonies, evolve units with 64-gene DNA, command 12 heroes, conquer 67,000 planets across a procedurally generated galaxy.
+Commit code → earn Dark Matter. Fix bugs → unlock rare units. Hit a 7-day streak → your armies get a massive power boost. Your skill trees level up as you master new programming languages.
 
----
-
-## Content
-
-| Category | Count | Details |
-|----------|-------|---------|
-| **Units** | 80 | Infantry, vehicles, mechs, biological, starships |
-| **Ships** | 63 | Fighters, frigates, cruisers, carriers, titans |
-| **Buildings** | 88 | Resource, military, research, defense, special |
-| **Technologies** | 80 | 5-tier research tree |
-| **Heroes** | 12 | Unique abilities, level progression |
-| **Spells** | 16 | Strategic abilities with cooldowns |
-| **Defenses** | 10 | Orbital, ground, shield generators |
-| **Formations** | 7 | Tactical battle arrangements |
-| **Unit Tiers** | 15 | Progression from scout to titan |
-| **Prestige Tiers** | 3 | End-game prestige system |
-| **Galaxy Planets** | 67,000+ | Procedurally generated |
-| **Notification Types** | 19 | Real-time alerts |
+**This is not a casual mobile game. This is a full-featured galactic strategy RPG with real depth.**
 
 ---
 
-## NPC AI Engine
+## The Game
 
-4 unique AI faction personalities with strategic decision trees:
+### 4 AI Factions — Each with Unique Personality
 
-| Faction | Personality | Strategy | Play Style |
-|---------|------------|----------|------------|
-| **Iron Legion** | Aggressive | Attack when military > 1.5x enemy | Rush, overwhelm |
-| **Crystal Hive** | Defensive | Build defenses until 2x strength | Turtle, counter-attack |
-| **Void Traders** | Economic | Resource dominance, attack when certain | Economy, late-game |
-| **Swarm Mind** | Balanced | Adapts dynamically to context | Flexible, reactive |
+You're not fighting dumb bots. Each AI faction has a **distinct strategic personality** powered by real decision trees:
 
-### Difficulty Levels
+| Faction | Play Style | What to Expect |
+|---------|-----------|---------------|
+| **Iron Legion** | Aggressive | Early rushes, relentless pressure, 1.5x military before attacking |
+| **Crystal Hive** | Defensive | Impenetrable fortresses, counter-attacks when you overextend |
+| **Void Traders** | Economic | Resource dominance, overwhelming late-game armies |
+| **Swarm Mind** | Balanced | Adapts to YOUR strategy — the most unpredictable enemy |
 
-| Level | AI Behavior |
-|-------|------------|
-| **Easy** | Suboptimal decisions, slower builds |
-| **Normal** | Balanced AI, fair challenge |
-| **Hard** | Optimized decision trees, aggressive expansion |
-| **Nightmare** | Perfect information, maximum aggression |
+Four difficulty levels from **Easy** (learn the ropes) to **Nightmare** (AI plays perfectly).
 
-Each NPC evaluates **threat level**, **economic strength**, and **military power** every tick to decide: build, research, attack, defend, expand, or form alliances.
+### 67,000 Planets to Conquer
 
----
+A procedurally generated galaxy with **67,000 planets**, each with unique resources, terrain, and strategic value. Expand your empire. Establish trade routes. Defend your borders. Launch invasions across star systems.
 
-## GenomeForge — 64-Gene Evolution System
+### 64-Gene DNA Evolution
 
-Every unit has a **64-gene DNA sequence** that determines:
-- Combat stats (attack, defense, speed, range)
-- Special abilities (stealth, regeneration, berserk)
-- Resource costs and build times
-- Visual appearance mutations
+Every unit has a **64-gene DNA sequence**. Breed your best warriors. Combine parent genes through crossover and mutation. Watch your armies **evolve over generations** — faster, stronger, more specialized. Natural selection favors the successful.
 
-**Breeding** combines parent genes with crossover and mutation. **Natural selection** favors successful combat genetics across generations.
+### 80 Units, 63 Ships, 12 Heroes
+
+Infantry, mechs, biological horrors, star destroyers, and legendary heroes with unique abilities. 7 tactical formations. 16 strategic spells. 10 defense systems. 5 tiers of prestige.
 
 ---
 
-## Integration with ImpForge
+## The Productivity Bridge
 
-SwarmForge is deeply connected to the ImpForge AI Workstation:
+SwarmForge isn't just a game — it's a **motivation engine** backed by science.
 
-| ImpForge Action | Game Reward |
-|----------------|------------|
-| Git Commit | +50 XP, Dark Matter |
-| Test Written | +30 XP |
-| Bug Fixed | +100 XP, Bonus Resources |
-| Code Review | +40 XP |
-| 7-Day Streak | +300 XP, Rare Loot |
-| Document Created | +20 XP |
-| Battle Won | +200 XP |
+Research shows gamification increases productivity by **50%** and engagement by **89%** (AmplifAI 2026). SwarmForge uses Self-Determination Theory (autonomy, competence, relatedness) and variable-ratio reward schedules — the same psychology that makes the best games addictive, applied to making you more productive.
 
-### Skill Trees
+| What you do in ImpForge | What you earn in SwarmForge |
+|--------------------------|---------------------------|
+| Write code | +50 XP, Dark Matter resources |
+| Fix a bug | +100 XP, rare loot drops |
+| Write tests | +30 XP |
+| Complete a review | +40 XP |
+| 7-day streak | +300 bonus XP |
+| 30-day streak | +1,000 XP, legendary achievement |
+| Win a battle | +200 XP |
 
-8 language-specific skill trees unlock in-game bonuses:
+### 8 Skill Trees
+
+Level up in the languages you use:
 - **JavaScript** → React → Hooks / Node.js → Express
-- **Python** → Django → DRF / FastAPI → Async
+- **Python** → Django / FastAPI → Async
 - **Rust** → Tokio → Axum / Systems → FFI
-- **TypeScript** → Svelte → SvelteKit / Angular → RxJS
-- **Go** → Web → Gin / Systems → Concurrency
-- **C#** → Unity → DOTS / ASP.NET → Blazor
-- **DevOps** → Docker → K8s / CI/CD → GitHub Actions
-- **SQL** → PostgreSQL → pgvector / SQLite → WAL
+- Plus TypeScript, Go, C#, DevOps, SQL
 
 ### 100 Achievements
 
-From "First Commit" to "Grand Master" (Level 100). Achievements span coding, AI usage, productivity, office work, industry tools, and social collaboration.
-
-### Team Leaderboards
-
-Compete with your development team:
-- Weekly / Monthly / All-Time rankings
-- XP, commits, tests, reviews tracked
-- Team MVPs highlighted
+From **"First Commit"** to **"Grand Master"** (Level 100). Cross-platform achievements spanning coding, AI usage, productivity, and combat.
 
 ---
 
-## Game Systems
+## No Microtransactions. Period.
 
-| System | Description |
-|--------|------------|
-| **Real-Time Simulation** | 20 tick/sec with delta-compressed streaming |
-| **4-Faction Terrain** | Creep spreading, territory control |
-| **Patrol System** | SC2-style unit movement |
-| **Kultisten System** | Sacrifice mechanics for powerful effects |
-| **Entity-Component-System** | Rust ECS architecture for performance |
-| **Variable-Ratio Rewards** | Random bonus drops for sustained engagement |
+**EUR 19.99.** That's it. No loot boxes. No battle passes. No pay-to-win. No subscription. No "surprise mechanics."
+
+Everything is earnable through gameplay and real productivity. Your skill determines your empire, not your wallet.
+
+*Also included free with ImpForge Pro (EUR 25/mo).*
 
 ---
 
-## Pricing
+## Built with Rust
 
-**EUR 19.99** — One-time purchase. No subscriptions. No microtransactions. No pay-to-win.
-
-Alternatively included free with ImpForge Pro (EUR 25/mo).
+SwarmForge runs at **native performance** inside the ImpForge desktop app:
+- **Rust** backend for blazing-fast game logic
+- **Svelte 5** reactive frontend
+- **Tauri 2** — 2.5MB binary, not 150MB Electron bloat
+- **20 ticks/second** real-time simulation
+- **Entity-Component-System** architecture
 
 ---
 
-## Tech Stack
+## Get the Game
 
-- **Engine**: Rust (native performance, memory-safe)
-- **Frontend**: Svelte 5 with reactive runes
-- **Desktop**: Tauri 2 (2.5MB binary)
-- **Database**: SQLite WAL (embedded)
-- **AI**: Local NPC intelligence (no cloud)
+SwarmForge is part of the [ImpForge AI Workstation](https://github.com/AiImpDevelopment/impforge):
+
+```bash
+# Download ImpForge (includes SwarmForge)
+sudo dpkg -i impforge_2.0.0_amd64.deb
+```
+
+Or purchase SwarmForge standalone for **EUR 19.99**.
 
 ---
 
 <p align="center">
-  <strong>SwarmForge — Your Productivity Powers Your Empire</strong><br/>
-  Part of the <a href="https://github.com/AiImpDevelopment/impforge">ImpForge</a> AI Workstation<br/><br/>
-  Built in Germany. Zero microtransactions. Pure strategy.
+  <strong>SwarmForge — Code. Conquer. Evolve.</strong><br/><br/>
+  <a href="https://github.com/AiImpDevelopment/impforge">ImpForge AI Workstation</a> &bull;
+  <a href="https://github.com/AiImpDevelopment/swarmforge">Star on GitHub</a>
 </p>
