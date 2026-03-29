@@ -7,79 +7,174 @@
 <h3 align="center">Your productivity fuels your galactic empire.</h3>
 
 <p align="center">
-  <strong>A 4-faction strategy RPG built into your AI workstation.</strong><br/>
-  The more you work, the stronger your empire grows.
+  <strong>A 4-faction strategy RPG where every line of code,<br/>every document, and every completed task makes your empire stronger.</strong>
+</p>
+
+<p align="center">
+  <a href="#how-it-works">How It Works</a> &bull;
+  <a href="#factions">Factions</a> &bull;
+  <a href="#features">Features</a> &bull;
+  <a href="#why">Why</a> &bull;
+  <a href="#get-it">Get It</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Price-EUR%2019.99%20(one--time)-green" alt="Price" />
+  <img src="https://img.shields.io/badge/Microtransactions-Zero.%20None.%20Ever.-brightgreen" alt="No MTX" />
+  <img src="https://img.shields.io/badge/Platforms-Linux%20%7C%20Windows%20%7C%20macOS-blue" alt="Platforms" />
+  <img src="https://img.shields.io/badge/Multiplayer-Yes-purple" alt="Multiplayer" />
 </p>
 
 ---
 
-## What Is SwarmForge?
+## The game that makes work feel like an adventure
 
-SwarmForge is a **real-time galactic strategy game** integrated directly into ImpForge. Every line of code you write, every document you create, every email you send -- it all generates resources, unlocks technologies, and strengthens your faction.
+<a id="how-it-works"></a>
 
-**This isn't a distraction. It's motivation.**
+You write code. You finish a document. You clear your inbox. You maintain a daily streak.
 
----
+**SwarmForge turns all of that into power.**
 
-## Gameplay
+Every productive action you take generates resources, unlocks research, trains units, and grows your galactic empire. The more focused you are at work, the stronger your faction becomes.
 
-### Choose Your Faction
+| What you do | What happens in-game |
+|------------|---------------------|
+| Write 100 lines of code | Mine rare minerals for your colony |
+| Complete a document | Unlock new research technologies |
+| Clear 10 emails | Train elite combat units |
+| Maintain a 7-day streak | Activate faction special abilities |
+| Hit 30 minutes of flow state | Trigger a Dark Matter bonus event |
 
-| Faction | Specialty | Playstyle |
-|---------|-----------|-----------|
-| **Terran Collective** | Engineering & Industry | Build massive fleets, dominate through production |
-| **Zyphari Swarm** | Biological Evolution | Adapt and mutate, overwhelm through numbers |
-| **Kultisten Order** | Dark Energy & Sacrifice | Risk-reward mechanics, powerful but volatile |
-| **Nexari Network** | Information & Espionage | Control through intelligence, sabotage enemies |
-
-### Your Work = Your Power
-
-| Your Action | Game Reward |
-|-------------|------------|
-| Write 100 lines of code | Mine rare minerals |
-| Complete a document | Unlock research points |
-| Finish a task | Train elite units |
-| Maintain a daily streak | Earn faction loyalty |
-| Hit 30min flow state | Activate special abilities |
-
-### Features
-
-- **67,000+ explorable planets** across procedurally generated galaxies
-- **80 unique unit types** with upgrade paths and special abilities
-- **63 ship classes** from scouts to capital ships
-- **88 building types** for colony management
-- **12 hero characters** with skill trees and equipment
-- **Fleet combat** with formation strategies and terrain effects
-- **Diplomacy system** -- trade, alliance, espionage, or war
-- **Real-time game loop** at 20 ticks/second
-- **Multiplayer** -- compete with friends or colleagues
-- **Prestige system** -- reset for permanent bonuses
+> This isn't a distraction from your work. It's the reason you stay in flow.
 
 ---
 
-## How It Works
+<a id="factions"></a>
 
-SwarmForge runs inside ImpForge as a background module. It observes your productivity patterns (locally, never sent anywhere) and translates them into in-game resources and events.
+## Choose your faction
 
-- **No additional installation** -- it's built into ImpForge
-- **Plays in a sidebar** -- doesn't take over your screen
-- **Fully optional** -- disable it anytime in settings
-- **Offline** -- no internet required, no cloud saves needed
+Four civilizations. Four philosophies. Four completely different ways to conquer the galaxy.
+
+### Terran Collective
+**Industry and engineering.** Build the largest fleets, the strongest defenses, the most productive colonies. You win through overwhelming industrial power.
+
+### Zyphari Swarm
+**Evolution and adaptation.** Your units mutate, evolve, and adapt to any threat. A 64-gene genetic system means no two creatures are alike. Overwhelm through numbers and biological ingenuity.
+
+### Kultisten Order
+**Dark energy and sacrifice.** High risk, high reward. Sacrifice your own units to fuel devastating abilities. The most volatile faction — and the most powerful in the right hands.
+
+### Nexari Network
+**Intelligence and espionage.** Why fight when you can sabotage? Plant spies, steal resources, decrypt enemy communications. Control the galaxy through information superiority.
+
+---
+
+<a id="features"></a>
+
+## What's in the game
+
+### A galaxy worth exploring
+
+- **67,000+ procedurally generated planets** across hundreds of star systems
+- **Voronoi + Perlin noise terrain** with biomes, resources, and strategic positions
+- **Fog of war** that rewards scouting and exploration
+- **Day/night cycles** affecting combat and production
+
+### Units and combat
+
+- **80 unique unit types** — from swarm larvae to capital ships
+- **63 ship classes** with upgrade paths and loadouts
+- **12 hero characters** with skill trees, equipment, and special abilities
+- **Formation-based combat** with terrain effects and damage matrices
+- **Fleet movement** across the galaxy map with travel time and fuel costs
+
+### Colony management
+
+- **88 building types** for production, research, defense, and special faction structures
+- **Resource conversion** between 4 faction-specific resource types
+- **Patrol system** for automated defense and area control
+- **Building queues** with Offline Progression — your empire grows while you sleep
+
+### Progression systems
+
+- **Mana system** with faction-specific spells and abilities
+- **Prestige cycles** — reset for permanent multipliers (like New Game+)
+- **Talent trees** with 3 branches per faction
+- **64-gene creature evolution** — breed the perfect army through MAP-Elites genetic algorithms
+- **Achievement system** with 100 milestones
+
+### Multiplayer and diplomacy
+
+- **Trade, alliance, espionage, or total war** with other players
+- **Galaxy-wide leaderboards** and seasonal rankings
+- **Cross-faction diplomacy** with reputation and treaty mechanics
+- **Competitive or cooperative** — play your way
+
+### Offline Progression
+
+Close ImpForge. Come back tomorrow. Your colonies kept mining, your fleets kept patrolling, your research kept advancing. SwarmForge respects your time.
 
 ---
 
-## Screenshots
+<a id="why"></a>
 
-> Coming soon
+## Why SwarmForge exists
+
+Most gamification apps give you a badge for completing a task. We built an entire game.
+
+SwarmForge is based on a simple insight from behavioral science: **people perform better when their work has visible, meaningful consequences.** Not a checkmark. Not a confetti animation. A fleet of warships you built with your own productivity.
+
+The research backs this up:
+- **Idle game mechanics** (AFK Arena, OGame) create sustained engagement through visible progress
+- **Variable reward schedules** maintain motivation far longer than fixed rewards
+- **Social competition** (leaderboards, alliances) triggers commitment and consistency
+- **Identity investment** — when players invest time building something, they value their productive habits more
+
+SwarmForge isn't a toy bolted onto a productivity app. It's a full strategy game that happens to be powered by your real-world output.
 
 ---
 
-## Part of ImpForge
+## What SwarmForge is NOT
 
-SwarmForge is one module within **ImpForge** -- the world's first AI-native desktop operating environment. Get SwarmForge by downloading ImpForge.
+- **NOT pay-to-win.** Zero microtransactions. Zero loot boxes. You buy the game once.
+- **NOT a distraction.** The game runs in a sidebar or background. It never interrupts your flow.
+- **NOT a surveillance tool.** Productivity tracking is 100% local. Nothing is sent anywhere.
+- **NOT required.** Disable it in one click if you just want ImpForge as a workstation.
 
 ---
+
+<a id="get-it"></a>
+
+## Get SwarmForge
+
+SwarmForge is included with **ImpForge** — the AI workstation that replaces 15+ subscriptions.
+
+**EUR 19.99** one-time purchase. No subscription. No microtransactions.
+
+Available as a standalone game module within ImpForge for **Linux**, **Windows**, and **macOS**.
+
+```
+Coming soon: impforge.dev/swarmforge
+```
+
+### System Requirements
+
+| | Minimum | Recommended |
+|---|---------|-------------|
+| **RAM** | 8 GB | 16 GB |
+| **CPU** | 4 cores | 8 cores |
+| **Disk** | 2 GB | 5 GB |
+| **GPU** | Not required | Dedicated GPU for smooth rendering |
+
+---
+
+## Built by AiImp Technology
+
+SwarmForge is developed by **AiImp Technology** (Germany) as part of the ImpForge AI Workstation. We believe productivity tools should be rewarding — not just useful.
 
 <p align="center">
-  <strong>Turn your work into an adventure.</strong>
+  <br/>
+  <strong>Turn your 9-to-5 into an intergalactic empire.</strong>
+  <br/><br/>
+  <a href="https://impforge.dev/swarmforge">impforge.dev/swarmforge</a>
 </p>
