@@ -87,6 +87,7 @@ Four civilizations. Four philosophies. Four completely different ways to conquer
 - **12 hero characters** with skill trees, equipment, and special abilities
 - **Formation-based combat** with terrain effects and damage matrices
 - **Fleet movement** across the galaxy map with travel time and fuel costs
+- **NPC AI** powered by behavior trees, GOAP planning, and A* hex-grid pathfinding
 
 ### Colony management
 
@@ -113,6 +114,15 @@ Four civilizations. Four philosophies. Four completely different ways to conquer
 ### Offline Progression
 
 Close ImpForge. Come back tomorrow. Your colonies kept mining, your fleets kept patrolling, your research kept advancing. SwarmForge respects your time.
+
+### Everything is simulated
+
+SwarmForge isn't a numbers game with a strategy skin. It's a real simulation:
+
+- **20 Hz tick-rate** dedicated game loop with delta-compressed state sync
+- **Procedural terrain** with Voronoi tessellation and Perlin fractal brownian motion
+- **Real physics** — fleet formations, fuel costs, travel time between star systems
+- **Sound design** — 7 dynamic music states with stem layering, faction-specific ambient palettes
 
 ---
 
