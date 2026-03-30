@@ -180,7 +180,7 @@ Coming soon: impforge.dev/swarmforge
 
 ## Built by AiImp Technology
 
-SwarmForge is developed by **AiImp Technology** (Germany) as part of the ImpForge AI Workstation. We believe productivity tools should be rewarding — not just useful.
+SwarmForge is developed by **AiImp Technology** (Germany) as part of the [ImpForge AI Workstation](https://github.com/AiImpDevelopment/impforge) — the world's first desktop app with a Digital Human and an AI Board of Directors. We believe productivity tools should be rewarding — not just useful.
 
 <p align="center">
   <br/>
