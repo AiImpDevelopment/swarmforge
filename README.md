@@ -188,3 +188,21 @@ SwarmForge is developed by **AiImp Technology** (Germany) as part of the [ImpFor
   <br/><br/>
   <a href="https://impforge.dev/swarmforge">impforge.dev/swarmforge</a>
 </p>
+
+---
+
+### NEW: Expanded in March 2026
+
+SwarmForge has grown significantly:
+
+- **21 game modules** — from galaxy generation to diplomacy, from combat to meta-progression
+- **64-gene genetic algorithm** — creatures evolve and adapt through a real genome system
+- **Hero/Champion system** — 12 unique heroes with alliance mechanics and damage matrices
+- **Diplomacy engine** — espionage, trade routes, and faction reputation
+- **Offline progression** — your empire grows while you sleep (8-hour cap, strategic login timing)
+- **Multiplayer infrastructure** — P2P + cloud AI for cross-device play
+- **OGame-inspired exponential costs** — every level costs 2x, creating "just one more upgrade" loops
+- **Sound design + tutorial system** — full audio feedback and guided onboarding
+
+All powered by the same **Tauri 2 + Rust** engine that makes ImpForge blazing fast.
+
