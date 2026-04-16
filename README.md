@@ -206,3 +206,60 @@ SwarmForge has grown significantly:
 
 All powered by the same **Tauri 2 + Rust** engine that makes ImpForge blazing fast.
 
+---
+
+## Preserved source snapshot (April 2026)
+
+While SwarmForge is being redesigned around a different core gamification
+loop, the full Session-9 source code has been preserved at
+[`src-preserved-2026-04-17/`](./src-preserved-2026-04-17) so nothing is lost
+during the transition.
+
+**What's there (~45,483 LoC, 41 Rust files):**
+
+| Area                                            | LoC     | Highlights                                                           |
+|-------------------------------------------------|---------|----------------------------------------------------------------------|
+| `swarm_advanced/` (5 sub-modules)               | 2,818   | Human Faction Commander dashboard, Standalone release detection,     |
+|                                                 |         | OGame mechanics (Fleet Save, Vacation Mode, Noob Protection,         |
+|                                                 |         | Debris Fields, Moon creation, Phalanx sensor, Jump Gate transfers)   |
+| `swarm_combat/` (7 sub-modules)                 | 2,669   | 7x7 damage-type matrix, LoL-style armour reduction, up-to-6-round    |
+|                                                 |         | battles with shields + hull, terrain system (faction-specific        |
+|                                                 |         | spreading with Contested / Nexus zones), 10 defence structures       |
+| `forge_quest/` (10 sub-modules)                 | 9,847   | Colony management, evolution system, static data tables, RPG mode    |
+| `swarm_ai.rs`                                   | ~800    | Behaviour-tree + GOAP NPC AI                                         |
+| `swarm_database.rs`                             | 2,460   | SQLite persistence layer                                             |
+| `swarm_diplomacy.rs`                            | ~1,600  | Reputation, treaties, trade routes                                   |
+| `swarm_engagement.rs`                           | ~1,400  | Retention + streaks + daily hooks                                    |
+| `swarm_factions.rs`                             | ~1,200  | Faction data (Terran / Zyphari / Kultisten / Nexari)                 |
+| `swarm_galaxy.rs`                               | ~1,900  | Voronoi + Perlin procedural galaxy (67K planets)                     |
+| `swarm_gameloop.rs`                             | ~1,200  | 20 Hz tick loop with delta compression                               |
+| `swarm_genome.rs`                               | ~1,600  | 64-gene creature evolution (MAP-Elites)                              |
+| `swarm_heroes.rs`                               | ~1,800  | 12 heroes + skill trees + equipment                                  |
+| `swarm_integration.rs`                          | ~800    | Productivity-to-resource conversion                                  |
+| `swarm_meta.rs`                                 | ~1,400  | Prestige cycles + talent trees                                       |
+| `swarm_multiplayer.rs`                          | ~1,900  | P2P + cloud-AI cross-device play                                     |
+| `swarm_notifications.rs`                        | ~900    | Calm-technology notification layer                                   |
+| `swarm_polish.rs`                               | ~1,100  | Sound design + VFX hooks                                             |
+| `swarm_presentation.rs`                         | ~1,600  | Tutorial + onboarding flow                                           |
+| `swarm_progression.rs`                          | ~1,300  | Mana system + achievements + 100 milestones                          |
+| `swarm_special.rs`                              | ~900    | Dark Matter events + bonus triggers                                  |
+| `swarm_worldgen.rs`                             | ~1,900  | Biome generation, resource distribution, strategic-position scoring  |
+| `swarmforge_npc.rs`                             | ~1,200  | NPC personality + dialogue                                           |
+
+**Status:** Crown-Jewel split — all three God-Files (forge_quest,
+swarm_advanced, swarm_combat) were decomposed into focused sub-modules
+during Session 9 (2026-04-16).  `cargo check` + `cargo check --tests`
+completed with 0 errors and 0 warnings.  No `.unwrap()` in production.
+No `#[allow(dead_code)]` anywhere.
+
+**Why preserved, not live:** SwarmForge's gamification loop is being
+redesigned.  The mechanics here (4 factions, 64-gene evolution, 20 Hz
+simulation, OGame-inspired exponential costs) remain valuable
+references, but the next iteration will ship around a different core
+loop.  This snapshot guarantees nothing is lost while we rebuild.
+
+**How to build the snapshot:** the files depend on ImpForge's internal
+crates (`crate::error::ImpForgeError`, `crate::synapse_fabric`, …) and
+will not compile standalone.  Reintegration will happen via a future
+Cargo workspace that pulls SwarmForge back in as a proper sub-crate.
+
